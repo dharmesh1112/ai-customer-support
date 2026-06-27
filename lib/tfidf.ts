@@ -30,9 +30,9 @@ function termFrequency(tokens: string[]): Map<string, number> {
     tf.set(token, (tf.get(token) || 0) + 1);
   }
   // Normalize by document length
-  for (const [term, count] of tf) {
+  tf.forEach((count, term) => {
     tf.set(term, count / tokens.length);
-  }
+  });
   return tf;
 }
 
@@ -43,16 +43,16 @@ function buildIDF(documents: string[][]): Map<string, number> {
 
   for (const tokens of documents) {
     const unique = new Set(tokens);
-    for (const token of unique) {
+    unique.forEach((token) => {
       docFreq.set(token, (docFreq.get(token) || 0) + 1);
-    }
+    });
   }
 
   const idf = new Map<string, number>();
-  for (const [term, freq] of docFreq) {
+  docFreq.forEach((freq, term) => {
     // IDF formula: log(total docs / docs containing term)
     idf.set(term, Math.log((docCount + 1) / (freq + 1)) + 1);
-  }
+  });
 
   return idf;
 }
