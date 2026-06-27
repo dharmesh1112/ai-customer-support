@@ -4,15 +4,14 @@ An intelligent customer support chatbot powered by **RAG (Retrieval Augmented Ge
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue?logo=typescript)
-![Google Gemini](https://img.shields.io/badge/Google-Gemini%202.0%20Flash-blue?logo=google)
+![Llama 3.3](https://img.shields.io/badge/Llama%203.3-70B%20via%20Groq-orange?logo=meta)
+![Google Embeddings](https://img.shields.io/badge/Google-text--embedding--004-blue?logo=google)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?logo=tailwindcss)
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
 
 ## 🔗 Live Demo
 
-**[→ Try it live](https://ai-customer-support-demo.vercel.app)**
-
-<!-- Add actual Vercel URL after deployment -->
+**[→ Try it live](https://ai-support-dharmesh.vercel.app)**
 
 ---
 
@@ -36,15 +35,15 @@ An intelligent customer support chatbot powered by **RAG (Retrieval Augmented Ge
 
 ```
 ┌─────────────┐     ┌──────────────┐     ┌─────────────┐
-│   User UI   │────▶│  /api/embed  │────▶│   OpenAI    │
+│   User UI   │────▶│  /api/embed  │────▶│   Google    │
 │  (Next.js)  │     │  (chunking)  │     │  Embeddings │
 └─────────────┘     └──────────────┘     └─────────────┘
        │                                        │
        │ stores embeddings                      │
        │ in client state                        ▼
        │            ┌──────────────┐     ┌─────────────┐
-       └───────────▶│  /api/chat   │────▶│   OpenAI    │
-                    │  (RAG pipe)  │     │  GPT-4o-mini│
+       └───────────▶│  /api/chat   │────▶│  Llama 3.3  │
+                    │  (RAG pipe)  │     │  70B (Groq) │
                     └──────────────┘     └─────────────┘
                            │
                     1. Embed question
@@ -56,11 +55,11 @@ An intelligent customer support chatbot powered by **RAG (Retrieval Augmented Ge
 ### How RAG Works (Simplified)
 
 1. **Upload** → Document is split into chunks (~500 chars each)
-2. **Embed** → Each chunk is converted to a 1536-dimensional vector using OpenAI embeddings
+2. **Embed** → Each chunk is converted to a vector using Google text-embedding-004
 3. **Store** → Vectors are stored in the browser session (stateless server)
 4. **Query** → User's question is also embedded
 5. **Retrieve** → Cosine similarity finds the top 3 most relevant chunks
-6. **Generate** → GPT-4o-mini generates an answer using ONLY the retrieved chunks
+6. **Generate** → Llama 3.3 70B (via Groq) generates an answer using ONLY the retrieved chunks
 7. **Score** → Confidence is calculated from the similarity score of the best match
 
 ---
@@ -72,7 +71,7 @@ An intelligent customer support chatbot powered by **RAG (Retrieval Augmented Ge
 | Framework | Next.js 14 (App Router) | Full-stack in one codebase, API routes, Vercel-optimized |
 | Language | TypeScript | Type safety, better DX, professional standard |
 | Styling | Tailwind CSS | Rapid development, consistent design, dark mode built-in |
-| AI Model | Gemini 2.0 Flash | Free tier, fast, excellent quality for Q&A |
+| AI Model | Llama 3.3 70B via Groq | Free tier, blazing fast inference, excellent quality for Q&A |
 | Embeddings | text-embedding-004 | Free, 768-dim vectors for semantic search |
 | Vector Store | Client-side (React state) | Zero infrastructure, serverless-friendly |
 | Deployment | Vercel | Zero-config, edge functions, free tier |
