@@ -1,0 +1,319 @@
+# ShopEase — Customer Support Knowledge Base
+## Online Shopping Platform FAQ
+
+---
+
+## Returns & Exchanges
+
+### How do I return a product?
+To initiate a return on ShopEase:
+1. Go to My Orders → Select the order
+2. Click "Return Item" next to the product
+3. Choose your reason for return (defective, wrong item, didn't like it, etc.)
+4. Select pickup or drop-off:
+   - **Pickup**: Our courier will collect from your address within 2-3 business days
+   - **Drop-off**: Take it to any ShopEase partner store (find locations in the app)
+5. Pack the item in its original packaging with all tags attached
+6. You'll receive a confirmation email with your return tracking ID
+
+Returns must be initiated within 7 days of delivery for most products. Electronics have a 10-day window.
+
+### What items cannot be returned?
+The following items are NOT eligible for return:
+- Innerwear, lingerie, and swimwear (hygiene reasons)
+- Customized/personalized products
+- Perfumes and beauty products (if opened/used)
+- Digital downloads, gift cards, and subscriptions
+- Perishable goods (food, flowers, fresh items)
+- Items marked "Non-Returnable" on the product page
+
+### How do exchanges work?
+Exchange is available for clothing and footwear only:
+1. Go to My Orders → Click "Exchange" on the item
+2. Select the new size/color you want
+3. Schedule a pickup for the original item
+4. The replacement ships once we receive and verify your original item (typically 3-5 business days after pickup)
+
+Note: Exchange is only for size/color changes, NOT for a different product. Price differences (if any) will be charged or refunded to your original payment method.
+
+### What condition must returned items be in?
+To qualify for a return or exchange:
+- Item must be unused, unwashed, and undamaged
+- All original tags, labels, and packaging must be intact
+- Accessories, freebies, and combo items must be returned together
+- Electronics must include all original cables, chargers, and manuals
+- Furniture must be unassembled (if delivered in parts)
+
+If the item fails our quality check, it will be shipped back to you at no cost and your refund will not be processed.
+
+---
+
+## Refunds
+
+### How long does a refund take?
+Refund timelines after we receive and verify your returned item:
+
+| Payment Method | Refund Timeline |
+|---------------|----------------|
+| UPI / Wallet | 24-48 hours |
+| Credit Card | 5-7 business days |
+| Debit Card | 5-10 business days |
+| Net Banking | 7-10 business days |
+| Cash on Delivery | 3-5 business days (credited to ShopEase Wallet) |
+
+You'll receive an email and SMS notification once your refund is initiated.
+
+### Where will my refund go?
+- **Prepaid orders (UPI, card, net banking)**: Refund goes back to the original payment method used during purchase.
+- **Cash on Delivery orders**: Refund is credited to your ShopEase Wallet. You can use it for future purchases or request a bank transfer (takes 3-5 additional days).
+- **Partial COD + Wallet orders**: The wallet portion refunds to wallet instantly, the COD portion goes to ShopEase Wallet.
+
+### Can I get a refund to a different account?
+No — for security purposes, refunds are always processed to the original payment source. If your card has expired or account is closed, contact your bank — they'll route it to your updated account automatically.
+
+### What if my refund is delayed?
+If your refund hasn't arrived within the expected timeline:
+1. Check your email for a "Refund Initiated" confirmation
+2. If confirmed, wait 2-3 extra business days (bank processing)
+3. If still missing, go to Help → Refund Status → Enter Order ID
+4. Contact our support team via chat with your order number and refund reference ID
+
+Common reasons for delays: bank holidays, incorrect bank details on file, pending verification from payment gateway.
+
+---
+
+## Orders & Tracking
+
+### How do I track my order?
+You can track your order in multiple ways:
+- **App/Website**: My Orders → Click on the order → "Track Shipment"
+- **SMS/Email**: You receive tracking updates at every stage (ordered, shipped, out for delivery, delivered)
+- **WhatsApp**: Send your order number to +91-9876543210 for instant status
+- **Delivery partner app**: Once shipped, you'll get a link to the courier's tracking page (Delhivery, BlueDart, Ecom Express, etc.)
+
+Tracking updates are refreshed every 2-4 hours.
+
+### Can I change my delivery address after placing an order?
+- **Before shipment**: Yes! Go to My Orders → Order Details → "Edit Address" (available until the order is packed)
+- **After shipment**: Not possible. You'll need to refuse delivery and place a new order, or accept it and initiate a return.
+
+### Can I cancel an order?
+- **Before shipment**: Yes, full cancellation with instant refund. Go to My Orders → "Cancel Order"
+- **After shipment**: You cannot cancel, but you can refuse delivery when it arrives (refund processed within 7-10 days)
+- **Partially shipped**: Individual items can be cancelled if not yet shipped
+
+Cancellation charges:
+- No charges for cancellation before shipment
+- ₹50 convenience fee for COD orders cancelled after shipment
+- Made-to-order/customized items cannot be cancelled once production starts
+
+### What if I receive a damaged or wrong item?
+If your item arrived damaged, defective, or is the wrong product:
+1. Do NOT use or alter the item
+2. Take photos/video of the damage (including packaging)
+3. Go to My Orders → Report Issue → Select "Damaged" or "Wrong Item"
+4. Upload your photos as evidence
+5. We'll arrange a pickup within 24 hours (no need to return the item for damages under ₹500 — we'll just refund)
+6. Replacement ships within 2-3 business days, or choose full refund
+
+Report damaged items within 48 hours of delivery for fastest resolution.
+
+### What is the estimated delivery time?
+Delivery timelines depend on your location and the seller:
+
+| Service | Timeline | Cost |
+|---------|----------|------|
+| Standard Delivery | 4-7 business days | Free (orders above ₹499) |
+| Express Delivery | 1-2 business days | ₹99 (or free for ShopEase Plus members) |
+| Same-Day Delivery | By 9 PM today (order before 12 PM) | ₹149 (select cities only: Mumbai, Delhi, Bangalore, Hyderabad) |
+| Scheduled Delivery | Choose your date (up to 7 days ahead) | Free |
+
+Note: Delivery times may be affected during sales events, festivals, and extreme weather conditions. Remote pin codes may take 2-3 additional days.
+
+---
+
+## Payments
+
+### What payment methods do you accept?
+ShopEase accepts:
+- **UPI**: Google Pay, PhonePe, Paytm, BHIM
+- **Cards**: Visa, Mastercard, Rupay, Amex (credit & debit)
+- **Net Banking**: All major Indian banks
+- **Wallets**: ShopEase Wallet, Paytm Wallet, Amazon Pay
+- **EMI**: No-cost EMI on select products (3/6/9/12 months)
+- **Cash on Delivery**: Available for orders under ₹25,000
+- **Buy Now Pay Later**: LazyPay, Simpl, ZestMoney (for eligible users)
+
+### Is Cash on Delivery (COD) available?
+COD is available for most products under ₹25,000. However, COD is NOT available for:
+- Orders above ₹25,000
+- Digital products (gift cards, subscriptions)
+- Certain high-value electronics
+- Addresses with previous failed COD deliveries
+- First-time buyers with unverified phone numbers (for security)
+
+COD handling fee: ₹19 per order (waived for ShopEase Plus members).
+
+### What is ShopEase Wallet?
+ShopEase Wallet is our in-app digital wallet:
+- Add money via UPI, card, or net banking
+- Get instant refunds credited here (no waiting for bank processing)
+- Earn 2% cashback on wallet top-ups during promotions
+- Use alongside other payment methods (split payment)
+- Maximum wallet balance: ₹50,000
+- No expiry on wallet balance
+
+### My payment failed but money was deducted — what do I do?
+Don't worry — this is usually a temporary hold by your bank:
+1. Wait 30 minutes and check your bank statement again (pending charges often auto-reverse)
+2. If the amount is still debited after 24 hours, check your email for an order confirmation:
+   - **Order confirmed**: Your payment went through successfully!
+   - **No order confirmation**: The amount will auto-refund within 5-7 business days
+3. If no auto-refund after 7 days, contact support with your transaction reference number and bank statement screenshot
+
+### How does No-Cost EMI work?
+On select products marked "No Cost EMI":
+- The interest is borne by the seller/ShopEase (you pay exactly the product price, split into installments)
+- Available on credit cards from HDFC, ICICI, SBI, Axis, Kotak
+- Tenure options: 3, 6, 9, or 12 months
+- Minimum cart value: ₹3,000
+- Processing fee (₹199-₹499) may apply on some banks — shown at checkout before payment
+
+---
+
+## Account & Membership
+
+### How do I create an account?
+Sign up on ShopEase using:
+- Mobile number + OTP (quickest method)
+- Email address + password
+- Google or Facebook sign-in
+
+After signing up, verify your email to unlock all features (wishlist sync, order emails, exclusive offers).
+
+### What is ShopEase Plus?
+ShopEase Plus is our premium membership program (₹999/year or ₹99/month):
+- **Free Express Delivery** on ALL orders (no minimum)
+- **Early access** to sales (24 hours before everyone else)
+- **Extra 5% off** on select brands
+- **Free same-day delivery** in 4 metro cities
+- **Priority customer support** (dedicated queue, <2 min wait time)
+- **No COD charges**
+- **Exclusive member-only deals** every week
+
+Cancel anytime — pro-rated refund for unused months.
+
+### I forgot my password — how do I reset it?
+1. Click "Login" → "Forgot Password?"
+2. Enter your registered mobile number or email
+3. You'll receive an OTP (valid for 5 minutes)
+4. Enter the OTP and set a new password
+5. Password requirements: minimum 8 characters, at least one number and one special character
+
+If you don't receive the OTP, try switching between SMS and email delivery. Still stuck? Contact support with your registered email for manual verification.
+
+### How do I delete my account?
+To permanently delete your ShopEase account:
+1. Go to Settings → Account → "Delete My Account"
+2. Enter your password to confirm
+3. You'll have a 30-day cooling-off period (can reactivate by logging in)
+4. After 30 days, all data is permanently deleted
+
+Before deleting: download your order history, redeem any wallet balance, and cancel active ShopEase Plus membership.
+
+---
+
+## Shipping & Delivery
+
+### Do you deliver across India?
+Yes! ShopEase delivers to 19,000+ pin codes across India, including:
+- All state capitals and tier-1 cities (1-3 day delivery)
+- Tier-2 and tier-3 cities (3-5 day delivery)
+- Rural areas and remote pin codes (5-10 day delivery)
+- Northeast states and island territories (7-12 day delivery)
+
+Check delivery availability by entering your pin code on any product page.
+
+### What happens if I'm not home during delivery?
+If you're not available during delivery:
+1. The delivery partner will call you (the number on your order)
+2. If unreachable, they'll attempt delivery again the next day
+3. After 3 failed attempts, the order is returned to the warehouse
+4. You'll be notified via SMS/email before each attempt
+5. For express/same-day orders: you can reschedule via the tracking link
+
+Tip: Add delivery instructions in your address ("Leave with security guard", "Call before arriving", etc.)
+
+### Is delivery free?
+- **Standard Delivery**: Free on orders above ₹499
+- Orders below ₹499: ₹40 delivery fee
+- **ShopEase Plus members**: Always free (no minimum)
+- **Seller-specific shipping**: Some sellers charge their own shipping — shown on product page
+
+### How is my package packaged?
+We take care of your items:
+- **Fragile items**: Bubble wrap + sturdy corrugated box + "FRAGILE" label
+- **Clothing**: Polybag with air cushion (water-resistant)
+- **Electronics**: Original brand packaging + outer box + foam padding
+- **Large items (furniture, appliances)**: White-glove delivery with unpacking service included
+
+---
+
+## Offers & Coupons
+
+### How do I apply a coupon?
+1. Add items to your cart
+2. Go to checkout → Look for "Apply Coupon" field
+3. Enter your coupon code (case-sensitive) OR browse available coupons by clicking "View All Coupons"
+4. Click "Apply" — the discount reflects in your order total
+
+Only one coupon can be applied per order. Bank offers (10% off on HDFC, etc.) stack with coupons.
+
+### Why is my coupon not working?
+Common reasons:
+- Coupon has expired (check validity date)
+- Minimum purchase amount not met
+- Coupon is for specific categories only (e.g., "FASHION20" only works on fashion items)
+- Product is already on sale (coupons may not stack with sale prices)
+- Coupon is for first-time users only and you've ordered before
+- Maximum discount cap reached (e.g., "50% off up to ₹200")
+
+### What is ShopEase SuperCoins?
+SuperCoins is our rewards program:
+- Earn 1 SuperCoin per ₹100 spent
+- ShopEase Plus members earn 2x SuperCoins
+- Redeem: 1 SuperCoin = ₹1 discount
+- Use SuperCoins for exclusive deals in "Rewards Store"
+- SuperCoins expire 12 months after earning (on a rolling basis)
+- Check balance: My Account → SuperCoins
+
+---
+
+## Contact & Support
+
+### How do I contact customer support?
+Multiple ways to reach us:
+- **Live Chat**: Available 24/7 in the app (average wait: 30 seconds)
+- **Phone**: 1800-123-4567 (toll-free, 8 AM - 10 PM IST)
+- **Email**: support@shopease.in (response within 4 hours)
+- **WhatsApp**: +91-9876543210 (automated + human support)
+- **Social Media**: @ShopEaseIndia on Twitter/X and Instagram (DM us)
+
+For order-specific issues, always keep your Order ID ready for faster resolution.
+
+### What are your customer support hours?
+- **Live Chat & WhatsApp**: 24 hours, 7 days a week
+- **Phone support**: 8:00 AM to 10:00 PM IST, all days including holidays
+- **Email**: Monitored 24/7, response within 4 hours during business hours, 8 hours on weekends/holidays
+- **Social media DMs**: Response within 2 hours during business hours
+
+ShopEase Plus members get priority routing on all channels (<2 minute wait).
+
+### I have a complaint — how do I escalate?
+If your issue isn't resolved to your satisfaction:
+1. **Level 1**: Chat/call with our support team (first point of contact)
+2. **Level 2**: Ask to "escalate to a supervisor" — they have more authority to approve exceptions
+3. **Level 3**: Email escalations@shopease.in with your ticket number — handled by our Customer Experience team within 24 hours
+4. **Level 4**: Write to grievance@shopease.in — our Grievance Officer responds within 48 hours (as per Consumer Protection Act)
+
+We take every complaint seriously and aim to resolve issues within 72 hours maximum.
