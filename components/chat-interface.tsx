@@ -24,12 +24,12 @@ interface ChatInterfaceProps {
 
 // Suggested questions for the demo
 const SUGGESTED_QUESTIONS = [
-  "How do I reset my password?",
+  "What services do you offer?",
+  "How do I get started?",
   "What are your pricing plans?",
-  "How do I integrate with Slack?",
-  "Can I export my data?",
-  "Do you have a mobile app?",
-  "What security certifications do you have?",
+  "How can I contact support?",
+  "Do you offer refunds?",
+  "What integrations are available?",
 ];
 
 export function ChatInterface({ knowledgeBase }: ChatInterfaceProps) {

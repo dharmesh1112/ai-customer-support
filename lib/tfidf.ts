@@ -16,11 +16,13 @@
 
 /** Tokenize text into words (lowercase, remove punctuation) */
 function tokenize(text: string): string[] {
+  // Keep words with 2+ chars (preserves "AI", "UI", "CX", "ML", etc.)
+  // Only skip single-character tokens
   return text
     .toLowerCase()
     .replace(/[^\w\s]/g, " ")
     .split(/\s+/)
-    .filter((word) => word.length > 2); // Skip very short words
+    .filter((word) => word.length > 1); // Skip single chars only
 }
 
 /** Calculate term frequency for a document */

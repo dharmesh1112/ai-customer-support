@@ -65,14 +65,14 @@ export function searchKnowledgeBase(
  * Determine confidence level based on the best similarity score.
  *
  * These thresholds are tuned for TF-IDF cosine similarity:
- * - >= 0.35: Strong match — answer with confidence
- * - >= 0.15: Decent match — answer but note uncertainty
- * - < 0.15: Poor match — suggest human handoff
+ * - >= 0.20: Strong match — answer with confidence
+ * - >= 0.10: Decent match — answer but note uncertainty
+ * - < 0.10: Poor match — suggest human handoff
  */
 export function getConfidenceLevel(
   topScore: number
 ): "high" | "medium" | "low" {
-  if (topScore >= 0.35) return "high";
-  if (topScore >= 0.15) return "medium";
+  if (topScore >= 0.20) return "high";
+  if (topScore >= 0.10) return "medium";
   return "low";
 }
